@@ -19,7 +19,8 @@ Hand Gesture Recognition
 
 ##### To run the file use:  _**python sudo.py**_  
 ```diff
-- *Note: **(Memory Intensive Operation)** This script creates screenshot for every frame captured and stores it in directory 'screenshots'. Hence, there is a little delay during frame capture*
+Note: (Memory Intensive Operation)  
+This script creates screenshot for every frame captured and stores it in directory 'screenshots'. Hence, there is a little delay during frame capture
 ```  
 
 #### Screenshots:  
