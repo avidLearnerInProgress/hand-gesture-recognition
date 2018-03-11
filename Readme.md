@@ -18,7 +18,7 @@ Hand Gesture Recognition
   - Compute count of fingers using the finger slices obtained in previous step  
 
 ##### To run the file use:  _**python sudo.py**_  
-##### - ![#f03c15]*Note: **(Memory Intensive Operation)** This script creates screenshot for every frame captured and stores it in directory 'screenshots'. Hence, there is a little delay during frame capture*   
+##### ```diff - *Note: **(Memory Intensive Operation)** This script creates screenshot for every frame captured and stores it in directory 'screenshots'. Hence, there is a little delay during frame capture*````  
 
 #### Screenshots:  
 #### ![Screenshot1](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_1.png)  
