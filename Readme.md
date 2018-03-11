@@ -30,6 +30,12 @@ Hand Gesture Recognition
 #### ![Screenshot4](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_4.png)  
 #### ![Screenshot5](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_5.png)  
 
+### To-Do List
+- [x] Segment hand region
+- [x] Detect numbers using count of fingers
+- [ ] Detect characters using finger motion
+- [ ] Capture words using word motion
+- [ ] Automate tasks with each character / word
 
 
 
