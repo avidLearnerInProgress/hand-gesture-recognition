@@ -23,6 +23,13 @@ Hand Gesture Recognition
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `This script creates screenshot for every frame captured and stores it in directory 'screenshots'`  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Hence, there is a little delay during frame capture`  
 
+### To-Do List:  
+- [x] Segment hand region
+- [x] Detect numbers using count of fingers
+- [ ] Detect characters using finger motion
+- [ ] Capture words using word motion
+- [ ] Automate tasks with each character / word  
+
 #### Screenshots:  
 #### ![Screenshot1](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_1.png)  
 #### ![Screenshot2](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_2.png)  
@@ -30,12 +37,6 @@ Hand Gesture Recognition
 #### ![Screenshot4](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_4.png)  
 #### ![Screenshot5](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_5.png)  
 
-### To-Do List
-- [x] Segment hand region
-- [x] Detect numbers using count of fingers
-- [ ] Detect characters using finger motion
-- [ ] Capture words using word motion
-- [ ] Automate tasks with each character / word
 
 
 
