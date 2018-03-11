@@ -17,9 +17,10 @@ Hand Gesture Recognition
   - Perform bitwise AND operation on thresholded hand image and the circular ROI  
   - Compute count of fingers using the finger slices obtained in previous step  
 
-##### To run the file use:  _**python sudo.py**_  
+#### To run the file use:  _**python sudo.py**_  
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `*Memory Intensive Operation* This script creates screenshot for every frame captured and stores it in directory 'screenshots'. Hence, there is a little delay during frame capture`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `(Memory Intensive Operation)`  
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `This script creates screenshot for every frame captured and stores it in directory 'screenshots'. Hence, there is a little delay during frame capture`  
 
 #### Screenshots:  
 #### ![Screenshot1](https://rawgit.com/avidLearnerInProgress/hand-gesture-recognition/master/screenshots/screenshot_1.png)  
