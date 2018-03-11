@@ -1,9 +1,7 @@
-Alt-Hand Gesture Recognition  
+Hand Gesture Recognition  
 ============================
 
-## Detects finger movements of hands and shows appropriate output  
-
-### Used **OpenCV** and **Python** for image processing tasks  
+## Detects finger movements of hands and shows appropriate output. Uses **OpenCV** and **Python** for image processing tasks  
   
 #### Steps:  
 
